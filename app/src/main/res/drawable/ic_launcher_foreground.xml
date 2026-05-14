@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset
+            android:drawable="@drawable/logo"
+            android:insetBottom="12dp"
+            android:insetLeft="12dp"
+            android:insetRight="12dp"
+            android:insetTop="12dp" />
+    </item>
+</layer-list>

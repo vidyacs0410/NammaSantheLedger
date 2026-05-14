@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಸಂತೆ ಲೆಡ್ಜರ್</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">ನಮ್ಮ ಸಂತೆ ಲೆಡ್ಜರ್</string>
+    <string name="total_outstanding">ಒಟ್ಟು ಉಧಾರಿ</string>
+    <string name="customers_label">ಗ್ರಾಹಕರು</string>
+    <string name="search_customers">ಗ್ರಾಹಕರನ್ನು ಹುಡುಕಿ…</string>
+    <string name="no_customers_title">ಇನ್ನೂ ಗ್ರಾಹಕರಿಲ್ಲ!</string>
+    <string name="no_customers_subtitle">ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ ಮೊದಲ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="add_first_customer">ಮೊದಲ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="customer_not_found">ಗ್ರಾಹಕರು ಸಿಗಲಿಲ್ಲ</string>
+
+    <!-- Quick Entry Screen -->
+    <string name="select_customer">ಗ್ರಾಹಕ ಆರಿಸಿ</string>
+    <string name="new_customer">ಹೊಸ ಗ್ರಾಹಕ</string>
+    <string name="add_customer">ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="customer_name">ಗ್ರಾಹಕರ ಹೆಸರು</string>
+    <string name="phone_number">ಫೋನ್ ನಂಬರ್</string>
+    <string name="what_did_you_sell">ಏನು ಮಾರಿದಿರಿ?</string>
+    <string name="add_udari">ಉಧಾರಿ ಸೇರಿಸಿ</string>
+    <string name="record_payment">ಹಣ ಸ್ವೀಕರಿಸಿ</string>
+    <string name="enter_amount">ಮೊತ್ತ ನಮೂದಿಸಿ</string>
+    <string name="saved">ಉಳಿಸಲಾಗಿದೆ!</string>
+    <string name="error_empty_amount">ಮೊತ್ತ ನಮೂದಿಸಿ</string>
+    <string name="error_empty_name">ಗ್ರಾಹಕರ ಹೆಸರು ನಮೂದಿಸಿ</string>
+    <string name="step_amount_entry">ಮೊತ್ತ ನಮೂದಿಸಿ</string>
+
+    <!-- Customer Ledger Screen -->
+    <string name="due_label">ಬಾಕಿ: ₹%1$s</string>
+    <string name="settled_label">ಮುಗಿದಿದೆ ✓</string>
+    <string name="net_balance">ನಿವ್ವಳ ಬಾಕಿ</string>
+    <string name="total_udari">ಒಟ್ಟು ಉಧಾರಿ</string>
+    <string name="total_paid">ಒಟ್ಟು ಪಾವತಿ</string>
+    <string name="send_whatsapp_reminder">WhatsApp ಜ್ಞಾಪನೆ ಕಳುಹಿಸಿ</string>
+    <string name="delete_customer">ಗ್ರಾಹಕರನ್ನು ಅಳಿಸಿ</string>
+    <string name="delete_transaction">ವ್ಯವಹಾರ ಅಳಿಸಿ</string>
+    <string name="delete_confirm_title">ಅಳಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿ</string>
+    <string name="delete_confirm_message">ಇದನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="today">ಇಂದು</string>
+    <string name="yesterday">ನಿನ್ನೆ</string>
+    <string name="whatsapp_not_found">WhatsApp ಇಲ್ಲ</string>
+
+    <!-- Daily Summary Screen -->
+    <string name="daily_summary">ದೈನಂದಿನ ಸಾರಾಂಶ</string>
+    <string name="todays_sales">ಇಂದಿನ ಮಾರಾಟ</string>
+    <string name="collected">ಸ್ವೀಕರಿಸಿದ</string>
+    <string name="pending">ಬಾಕಿ</string>
+    <string name="share_summary">ಸಾರಾಂಶ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="share_report_title">ಇಂದಿನ ಸಂತೆ ವರದಿ 📊</string>
+    <string name="share_sales">ಮಾರಾಟ: ₹%1$s</string>
+    <string name="share_collected">ಸ್ವೀಕರಿಸಿದ: ₹%1$s</string>
+    <string name="share_pending">ಬಾಕಿ: ₹%1$s</string>
+
+    <!-- Profile Screen -->
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="photo_updated">ಫೋಟೋ ಅಪ್‌ಡೇಟ್ ಆಗಿದೆ!</string>
+    <string name="profile_saved">ಪ್ರೊಫೈಲ್ ಉಳಿಸಲಾಗಿದೆ!</string>
+    <string name="name_updated">ಹೆಸರನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ!</string>
+    <string name="your_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="business_information">ವ್ಯಾಪಾರದ ಮಾಹಿತಿ</string>
+    <string name="business_type">ವ್ಯಾಪಾರದ ಪ್ರಕಾರ</string>
+    <string name="business_address">ವ್ಯಾಪಾರದ ವಿಳಾಸ</string>
+    <string name="update_profile">ಪ್ರೊಫೈಲ್ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="retail_shop">ಚಿಲ್ಲರೆ ಅಂಗಡಿ</string>
+    <string name="wholesale_distributor">ಸಗಟು / ವಿತರಕರು</string>
+    <string name="personal_use">ವೈಯಕ್ತಿಕ ಬಳಕೆ</string>
+    <string name="small_business">ಸಣ್ಣ ವ್ಯಾಪಾರ</string>
+    <string name="online_services">ಆನ್‌ಲೈನ್ ಸೇವೆಗಳು</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="app_preferences">ಅಪ್ಲಿಕೇಶನ್ ಆದ್ಯತೆಗಳು</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="change">ಬದಲಾಯಿಸಿ</string>
+    <string name="dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="enabled">ಸಕ್ರಿಯ</string>
+    <string name="disabled">ನಿಷ್ಕ್ರಿಯ</string>
+    <string name="notifications">ಸೂಚನೆಗಳು</string>
+    <string name="push_notifications">ಪುಶ್ ಸೂಚನೆಗಳು</string>
+    <string name="notifications_desc">ಜ್ಞಾಪನೆಗಳು ಮತ್ತು ನವೀಕರಣಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="notifications_enabled_msg">ಪುಶ್ ಅಧಿಸೂಚನೆಗಳು ಸಕ್ರಿಯಗೊಂಡಿವೆ! ನೀವು ಈಗ ಪಾವತಿ ಜ್ಞಾಪನೆಗಳನ್ನು ಪಡೆಯುತ್ತೀರಿ.</string>
+    <string name="data_security">ಡೇಟಾ ಮತ್ತು ಭದ್ರತೆ</string>
+    <string name="backup_data">ಡೇಟಾ ಬ್ಯಾಕಪ್</string>
+    <string name="backup_data_desc">ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಲೆಡ್ಜರ್ ಉಳಿಸಿ</string>
+    <string name="restore_data">ಡೇಟಾ ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="restore_data_desc">ಹಿಂದಿನ ಬ್ಯಾಕಪ್‌ನಿಂದ ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="about">ಬಗ್ಗೆ</string>
+    <string name="app_version">ಅಪ್ಲಿಕೇಶನ್ ಆವೃತ್ತಿ</string>
+    <string name="help_support">ಸಹಾಯ ಮತ್ತು ಬೆಂಬಲ</string>
+    <string name="help_support_desc">ಸಮಸ್ಯೆಗಳಿದ್ದರೆ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="made_in_india">Made with ❤️ in India</string>
+
+    <!-- Help & Support -->
+    <string name="how_can_we_help">ನಾವು ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?</string>
+    <string name="contact_us">ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="email_support">ಇಮೇಲ್ ಬೆಂಬಲ</string>
+    <string name="call_us">ಕರೆ ಮಾಡಿ</string>
+    <string name="whatsapp_support">WhatsApp ಬೆಂಬಲ</string>
+    <string name="chat_with_us">WhatsApp ನಲ್ಲಿ ಚಾಟ್ ಮಾಡಿ</string>
+    <string name="faqs">ಪದೇ ಪದೇ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು</string>
+    <string name="faq_backup_q">ನನ್ನ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡುವುದು ಹೇಗೆ?</string>
+    <string name="faq_backup_a">ಸೆಟ್ಟಿಂಗ್ಸ್ &gt; ಡೇಟಾ &amp; ಭದ್ರತೆ ಗೆ ಹೋಗಿ ಮತ್ತು ಬ್ಯಾಕಪ್ ಡೇಟಾ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.</string>
+    <string name="faq_offline_q">ಅಪ್ಲಿಕೇಶನ್ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಬಳಸಬಹುದೇ?</string>
+    <string name="faq_offline_a">ಹೌದು, ನಮ್ಮ ಸಂತೆ ಲೆಡ್ಜರ್ ಸಂಪೂರ್ಣ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.</string>
+    <string name="faq_safe_q">ನನ್ನ ಡೇಟಾ ಸುರಕ್ಷಿತವೇ?</string>
+    <string name="faq_safe_a">ಹೌದು. ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ನಾವು ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಬಳಸುತ್ತೇವೆ.</string>
+
+    <!-- Data Security -->
+    <string name="backup_restore">ಬ್ಯಾಕಪ್ ಮತ್ತು ಮರುಸ್ಥಾಪನೆ</string>
+    <string name="backup_restore_desc">ಕ್ಲೌಡ್ ಅಥವಾ ಫೋನ್‌ನಲ್ಲಿ ಡೇಟಾ ಸುರಕ್ಷಿತವಾಗಿಡಿ.</string>
+    <string name="backup_to_cloud">ಕ್ಲೌಡ್‌ಗೆ ಬ್ಯಾಕಪ್ ಮಾಡಿ</string>
+    <string name="export_local_backup">ಸ್ಥಳೀಯ ಬ್ಯಾಕಪ್ ರಫ್ತು</string>
+    <string name="save_file_phone">ಫೋನ್‌ಗೆ ಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="restore_from_cloud">ಕ್ಲೌಡ್‌ನಿಂದ ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="download_saved_records">ನಿಮ್ಮ ಉಳಿಸಿದ ದಾಖಲೆಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="import_from_file">ಫೈಲ್‌ನಿಂದ ಆಮದು</string>
+    <string name="select_backup_file">ಸ್ಟೋರೇಜ್‌ನಿಂದ ಬ್ಯಾಕಪ್ ಫೈಲ್ ಆರಿಸಿ</string>
+    <string name="account_security">ಖಾತೆ ಭದ್ರತೆ</string>
+    <string name="change_password">ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ</string>
+    <string name="update_credentials">ನಿಮ್ಮ ಲಾಗಿನ್ ರುಜುವಾತುಗಳನ್ನು ನವೀಕರಿಸಿ</string>
+
+    <!-- Backup & Restore UI -->
+    <string name="available_backups">ಲಭ್ಯವಿರುವ ಬ್ಯಾಕಪ್‌ಗಳು</string>
+    <string name="no_backups_found">ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಯಾವುದೇ ಬ್ಯಾಕಪ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="restore_confirm_title">ಡೇಟಾ ಮರುಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="restore_confirm_msg">ಈಗಿರುವ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್‌ನಿಂದ ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ. ಇದನ್ನು ಹಿಂಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="restoring">ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="restore_success">ಡೇಟಾ ಯಶಸ್ವಿಯಾಗಿ ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ!</string>
+    <string name="file_selected">ಫೈಲ್ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ: %1$s</string>
+    <string name="cloud_backup_found">Google Drive ನಲ್ಲಿ %1$s ರ ಬ್ಯಾಕಪ್ ಕಂಡುಬಂದಿದೆ</string>
+    <string name="select_to_restore">ದಾಖಲೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಬ್ಯಾಕಪ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="backing_up">ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="backup_success">ಬ್ಯಾಕಪ್ ಯಶಸ್ವಿಯಾಗಿ ಪೂರ್ಣಗೊಂಡಿದೆ!</string>
+    <string name="export_success">ಡೇಟಾವನ್ನು ಇಲ್ಲಿಗೆ ರಫ್ತು ಮಾಡಲಾಗಿದೆ: %1$s</string>
+    <string name="preparing_backup">ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="uploading_to_cloud">ಕ್ಲೌಡ್‌ಗೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+
+
+
+    <!-- Proverbs -->
+    <string name="proverb_1">ವ್ಯಾಪಾರ ಮಾಡು, ಉಪಕಾರ ಮಾಡು 🙏</string>
+    <string name="proverb_2">ಸಂತೆಗೆ ಮುಂಚೆ ಸಿದ್ಧತೆ ಮಾಡು 📦</string>
+    <string name="proverb_3">ಲೆಕ್ಕ ಇಟ್ಟರೆ ಲಾಭ ಕಟ್ಟಿಟ್ಟ ಬುತ್ತಿ 📒</string>
+    <string name="proverb_4">ಕಾಸು ಕಾಸು ಸೇರಿ ಕೋಟಿ ಆಗುತ್ತದೆ 💰</string>
+    <string name="proverb_5">ನಂಬಿಕೆಯೇ ವ್ಯಾಪಾರದ ಬಂಡವಾಳ 🤝</string>
+
+    <!-- General -->
+    <string name="error_generic">ಏನೋ ತಪ್ಪಾಗಿದೆ</string>
+    <string name="rupee_symbol">₹</string>
+
+    <!-- Auth Screens -->
+    <string name="app_tagline">ನಿಮ್ಮ ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಸುರಕ್ಷಿತ ಮತ್ತು ದಕ್ಷ ಉಧಾರಿ ನಿರ್ವಹಣೆ.</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="welcome_back">ಸ್ವಾಗತ</string>
+    <string name="login_subtitle">ನಿಮ್ಮ ಲೆಡ್ಜರ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="name_or_phone">ಹೆಸರು ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="login_identifier_placeholder">ಉದಾ: ಜಾನ್ ಅಥವಾ 9876543210</string>
+    <string name="error_empty_identifier">ಹೆಸರು ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="error_empty_password">ಪಾಸ್‌ವರ್ಡ್ ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ.</string>
+    <string name="forgot_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?</string>
+    <string name="no_account">ಖಾತೆ ಇಲ್ಲವೇ?</string>
+    <string name="create_account">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="signup_subtitle">ನಿಮ್ಮ ವ್ಯಾಪಾರವನ್ನು ಸುಲಭವಾಗಿ ನಿರ್ವಹಿಸಲು ನಮ್ಮೊಂದಿಗೆ ಸೇರಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="name_placeholder">ಉದಾ: ಜಾನ್ ಡೋ</string>
+    <string name="error_empty_fullname">ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_invalid_phone">ನಿಮ್ಮ 10-ಅಂಕಿಯ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿರುವಿರಾ?</string>
+    <string name="reset_password">ಪಾಸ್‌ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="forgot_password_subtitle">ಪಾಸ್‌ವರ್ಡ್ ಮರುಹೊಂದಿಸಲು ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="send_otp">OTP ಕಳುಹಿಸಿ</string>
+    <string name="verify_otp">OTP ಪರಿಶೀಲಿಸಿ</string>
+    <string name="enter_otp">OTP ನಮೂದಿಸಿ</string>
+    <string name="back">ಹಿಂದಕ್ಕೆ</string>
+    <string name="app_logo_description">ಅಪ್ಲಿಕೇಶನ್ ಲೋಗೋ</string>
+    <string name="show_password">ಪಾಸ್‌ವರ್ಡ್ ತೋರಿಸಿ</string>
+    <string name="hide_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆಮಾಡಿ</string>
+    <string name="login_error_invalid">ಹೆಸರು ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆ ಅಮಾನ್ಯವಾಗಿದೆ</string>
+    <string name="confirm_password">ಪಾಸ್‌ವರ್ಡ್ ಖಚಿತಪಡಿಸಿ</string>
+    <string name="confirm_password_placeholder">ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಪುನರಾವರ್ತಿಸಿ</string>
+    <string name="error_weak_password">ಪಾಸ್‌ವರ್ಡ್ ತುಂಬಾ ದುರ್ಬಲವಾಗಿದೆ</string>
+
+    <!-- Profile Dialogs -->
+    <string name="select_location">ಸ್ಥಳ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="location_picker_msg">ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಸ್ಥಳವನ್ನು ವ್ಯಾಪಾರ ವಿಳಾಸವಾಗಿ ಬಳಸಬೇಕೆ?</string>
+    <string name="current_location">ಪ್ರಸ್ತುತ ಸ್ಥಳ</string>
+    <string name="location_permission_denied">ಸ್ಥಳದ ಅನುಮತಿಯನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ</string>
+    <string name="permission_error">ಅನುಮತಿ ದೋಷ</string>
+    <string name="edit_name">ಹೆಸರು ತಿದ್ದುಪಡಿ</string>
+    <string name="edit_photo">ಫೋಟೋ ತಿದ್ದುಪಡಿ</string>
+    <string name="not_set">ಹೊಂದಿಸಿಲ್ಲ</string>
+
+    <!-- Voice Input -->
+    <string name="speak_now">ಈಗ ಮಾತನಾಡಿ…</string>
+    <string name="voice_tip_add">ಸಲಹೆ: \"ಅಕ್ಕಿಗೆ 500 ಸೇರಿಸಿ\" ಎಂದು ಹೇಳಿ</string>
+    <string name="voice_tip_receive">ಸಲಹೆ: \"200 ಪಾವತಿ\" ಎಂದು ಹೇಳಿ</string>
+    <string name="speak_name_prompt">ಗ್ರಾಹಕರ ಹೆಸರನ್ನು ಹೇಳಿ</string>
+    <string name="speak_phone_prompt">ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಹೇಳಿ</string>
+</resources>

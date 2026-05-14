@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">நம்ம சந்தை லெட்ஜர்</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">நம்ம சந்தை லெட்ஜர்</string>
+    <string name="total_outstanding">மொத்த உத்தாரி (பாக்கி)</string>
+    <string name="customers_label">வாடிக்கையாளர்கள்</string>
+    <string name="search_customers">வாடிக்கையாளர்களைத் தேடுக…</string>
+    <string name="no_customers_title">வாடிக்கையாளர்கள் இல்லை!</string>
+    <string name="no_customers_subtitle">தொடங்க உங்கள் முதல் வாடிக்கையாளரைச் சேர்க்கவும்</string>
+    <string name="add_first_customer">முதல் வாடிக்கையாளரைச் சேர்</string>
+    <string name="customer_not_found">வாடிக்கையாளர் கிடைக்கவில்லை</string>
+
+    <!-- Quick Entry Screen -->
+    <string name="select_customer">வாடிக்கையாளரைத் தேர்ந்தெடு</string>
+    <string name="new_customer">புதிய வாடிக்கையாளர்</string>
+    <string name="add_customer">வாடிக்கையாளரைச் சேர்</string>
+    <string name="customer_name">வாடிக்கையாளர் பெயர்</string>
+    <string name="phone_number">தொலைபேசி எண்</string>
+    <string name="what_did_you_sell">நீங்கள் என்ன விற்றீர்கள்?</string>
+    <string name="add_udari">உத்தாரியை சேர்</string>
+    <string name="record_payment">கட்டணத்தைப் பதிவு செய்</string>
+    <string name="enter_amount">தொகையை உள்ளிடவும்</string>
+    <string name="saved">சேமிக்கப்பட்டது!</string>
+    <string name="error_empty_amount">தொகையை உள்ளிடவும்</string>
+    <string name="error_empty_name">வாடிக்கையாளர் பெயரை உள்ளிடவும்</string>
+    <string name="step_amount_entry">தொகை பதிவு</string>
+
+    <!-- Customer Ledger Screen -->
+    <string name="due_label">பாக்கி: ₹%1$s</string>
+    <string name="settled_label">முடிந்தது ✓</string>
+    <string name="net_balance">நிகர இருப்பு</string>
+    <string name="total_udari">மொத்த உத்தாரி</string>
+    <string name="total_paid">மொத்த கட்டணம்</string>
+    <string name="send_whatsapp_reminder">WhatsApp நினைவூட்டலை அனுப்பு</string>
+    <string name="delete_customer">வாடிக்கையாளரை நீக்கு</string>
+    <string name="delete_transaction">பரிவர்த்தனையை நீக்கு</string>
+    <string name="delete_confirm_title">நீக்குதலை உறுதிப்படுத்து</string>
+    <string name="delete_confirm_message">இதை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="delete">நீக்கு</string>
+    <string name="today">இன்று</string>
+    <string name="yesterday">நேற்று</string>
+    <string name="whatsapp_not_found">WhatsApp இல்லை</string>
+
+    <!-- Daily Summary Screen -->
+    <string name="daily_summary">தினசரி சுருக்கம்</string>
+    <string name="todays_sales">இன்றைய விற்பனை</string>
+    <string name="collected">வசூலிக்கப்பட்டது</string>
+    <string name="pending">பாக்கி</string>
+    <string name="share_summary">சுருக்கத்தைப் பகிர்</string>
+    <string name="share_report_title">இன்றைய சந்தை அறிக்கை 📊</string>
+    <string name="share_sales">விற்பனை: ₹%1$s</string>
+    <string name="share_collected">வசூலிக்கப்பட்டது: ₹%1$s</string>
+    <string name="share_pending">பாக்கி: ₹%1$s</string>
+
+    <!-- Profile Screen -->
+    <string name="profile">சுயவிவரம்</string>
+    <string name="photo_updated">புகைப்படம் புதுப்பிக்கப்பட்டது!</string>
+    <string name="profile_saved">சுயவிவரம் சேமிக்கப்பட்டது!</string>
+    <string name="name_updated">பெயர் புதுப்பிக்கப்பட்டது!</string>
+    <string name="your_name">உங்கள் பெயர்</string>
+    <string name="business_information">வணிகத் தகவல்</string>
+    <string name="business_type">வணிக வகை</string>
+    <string name="business_address">வணிக முகவரி</string>
+    <string name="update_profile">சுயவிவரத்தைப் புதுப்பி</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="retail_shop">சில்லறை கடை</string>
+    <string name="wholesale_distributor">மொத்த விற்பனையாளர்</string>
+    <string name="personal_use">தனிப்பட்ட பயன்பாடு</string>
+    <string name="small_business">சிறு வணிகம்</string>
+    <string name="online_services">ஆன்லைன் சேவைகள்</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">அமைப்புகள்</string>
+    <string name="app_preferences">பயன்பாட்டு விருப்பத்தேர்வுகள்</string>
+    <string name="language">மொழி</string>
+    <string name="change">மாற்று</string>
+    <string name="dark_mode">இருண்ட பயன்முறை</string>
+    <string name="enabled">செயல்படுத்தப்பட்டது</string>
+    <string name="disabled">முடக்கப்பட்டது</string>
+    <string name="notifications">அறிவிப்புகள்</string>
+    <string name="push_notifications">புஷ் அறிவிப்புகள்</string>
+    <string name="notifications_desc">நினைவூட்டல்களைப் பெறுக</string>
+    <string name="notifications_enabled_msg">புஷ் அறிவிப்புகள் செயல்படுத்தப்பட்டன! கட்டண நினைவூட்டல்களைப் பெறுவீர்கள்.</string>
+    <string name="data_security">தரவு &amp; பாதுகாப்பு</string>
+    <string name="backup_data">தரவு காப்பு</string>
+    <string name="backup_data_desc">கிளவுட்டில் சேமிக்கவும்</string>
+    <string name="restore_data">தரவை மீட்டெடு</string>
+    <string name="restore_data_desc">முந்தைய காப்புப்பிரதியிலிருந்து மீட்டெடு</string>
+    <string name="about">பற்றி</string>
+    <string name="app_version">பயன்பாட்டு பதிப்பு</string>
+    <string name="help_support">உதவி &amp; ஆதரவு</string>
+    <string name="help_support_desc">சிக்கல்களுக்கு எங்களை தொடர்பு கொள்ளவும்</string>
+    <string name="made_in_india">Made with ❤️ in India</string>
+
+    <!-- Help & Support -->
+    <string name="how_can_we_help">நாங்கள் உங்களுக்கு எப்படி உதவ முடியும்?</string>
+    <string name="contact_us">எங்களை தொடர்பு கொள்ள</string>
+    <string name="email_support">மின்னஞ்சல் ஆதரவு</string>
+    <string name="call_us">அழைக்க</string>
+    <string name="whatsapp_support">WhatsApp ஆதரவு</string>
+    <string name="chat_with_us">WhatsApp இல் சாட் செய்</string>
+    <string name="faqs">அடிக்கடி கேட்கப்படும் கேள்விகள்</string>
+    <string name="faq_backup_q">காப்புப்பிரதியை எவ்வாறு எடுப்பது?</string>
+    <string name="faq_backup_a">அமைப்புகள் &gt; தரவு &amp; பாதுகாப்பு சென்று தரவு காப்பு என்பதைக் கிளிக் செய்யவும்.</string>
+    <string name="faq_offline_q">ஆஃப்லைனில் பயன்படுத்தலாமா?</string>
+    <string name="faq_offline_a">ஆம், இது முற்றிலும் ஆஃப்லைனில் வேலை செய்கிறது.</string>
+    <string name="faq_safe_q">எனது தரவு பாதுகாப்பானதா?</string>
+    <string name="faq_safe_a">ஆம், பாதுகாப்பிற்காக நாங்கள் குறியாக்கத்தைப் பயன்படுத்துகிறோம்.</string>
+
+    <!-- Data Security -->
+    <string name="backup_restore">காப்பு &amp; மீட்டெடு</string>
+    <string name="backup_restore_desc">உங்கள் தரவைப் பாதுகாப்பாக வைக்கவும்.</string>
+    <string name="backup_to_cloud">கிளவுட்டில் காப்புப்பிரதி எடு</string>
+    <string name="export_local_backup">உள்ளூர் காப்புப்பிரதியை ஏற்றுமதி செய்</string>
+    <string name="save_file_phone">உங்கள் தொலைபேசியில் கோப்பைச் சேமிக்கவும்</string>
+    <string name="restore_from_cloud">கிளவுட்டிலிருந்து மீட்டெடு</string>
+    <string name="download_saved_records">பதிவேடுகளைப் பதிவிறக்கவும்</string>
+    <string name="import_from_file">கோப்பிலிருந்து இறக்குமதி செய்</string>
+    <string name="select_backup_file">காப்பு கோப்பைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="account_security">கணக்கு பாதுகாப்பு</string>
+    <string name="change_password">கடவுச்சொல்லை மாற்று</string>
+    <string name="update_credentials">உங்கள் உள்நுழைவு சான்றுகளைப் புதுப்பிக்கவும்</string>
+
+    <!-- Proverbs -->
+    <string name="proverb_1">வியாபாரம் செய், உதவி செய் 🙏</string>
+    <string name="proverb_2">சந்தைக்கு முன் தயாராக இரு 📦</string>
+    <string name="proverb_3">கணக்கு எழுதினால் லாபம் நிச்சயம் 📒</string>
+    <string name="proverb_4">சிறுகச் சிறுகச் சேர்த்தால் கோடி 💰</string>
+    <string name="proverb_5">நம்பிக்கையே வியாபாரத்தின் மூலதனம் 🤝</string>
+    
+    <!-- General -->
+    <string name="error_generic">ஏதோ தவறு நடந்துவிட்டது</string>
+    <string name="rupee_symbol">₹</string>
+
+    <!-- Auth Screens -->
+    <string name="app_tagline">உங்கள் வணிகத்திற்கான பாதுகாப்பான மற்றும் திறமையான உதாரி மேலாண்மை.</string>
+    <string name="get_started">தொடங்குங்கள்</string>
+    <string name="welcome_back">நல்வரவு</string>
+    <string name="login_subtitle">உங்கள் லெட்ஜரை அணுக உள்நுழையவும்</string>
+    <string name="name_or_phone">பெயர் அல்லது தொலைபேசி எண்</string>
+    <string name="login_identifier_placeholder">உதாரணமாக: ஜான் அல்லது 9876543210</string>
+    <string name="error_empty_identifier">பெயர் அல்லது தொலைபேசி எண்ணை காலியாக விடக்கூடாது</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="error_empty_password">கடவுச்சொல்லை காலியாக உள்ளிடக்கூடாது.</string>
+    <string name="forgot_password">கடவுச்சொல் மறந்ததா?</string>
+    <string name="no_account">கணக்கு இல்லையா?</string>
+    <string name="create_account">கணக்கை உருவாக்குங்கள்</string>
+    <string name="signup_subtitle">உங்கள் வணிகத்தை எளிதாக நிர்வகிக்க எங்களுடன் இணையுங்கள்</string>
+    <string name="full_name">முழு பெயர்</string>
+    <string name="name_placeholder">உதாரணமாக: ஜான் டோ</string>
+    <string name="error_empty_fullname">உங்கள் முழு பெயரை உள்ளிடவும்</string>
+    <string name="error_invalid_phone">உங்கள் 10 இலக்க தொலைபேசி எண்ணை உள்ளிடவும்</string>
+    <string name="already_have_account">ஏற்கனவே கணக்கு உள்ளதா?</string>
+    <string name="reset_password">கடவுச்சொல்லை மாற்றவும்</string>
+    <string name="forgot_password_subtitle">கடவுச்சொல்லை மாற்ற உங்கள் தொலைபேசி எண்ணை உள்ளிடவும்</string>
+    <string name="send_otp">OTP அனுப்பவும்</string>
+    <string name="verify_otp">OTP சரிபார்க்கவும்</string>
+    <string name="enter_otp">OTP உள்ளிடவும்</string>
+    <string name="back">பின்செல்</string>
+    <string name="app_logo_description">பயன்பாட்டு லோகோ</string>
+    <string name="show_password">கடவுச்சொல்லைக் காட்டு</string>
+    <string name="hide_password">கடவுச்சொல்லை மறை</string>
+    <string name="login_error_invalid">பயனர் பெயர் அல்லது தொலைபேசி எண் தவறானது</string>
+    <string name="confirm_password">கடவுச்சொல்லை உறுதிப்படுத்தவும்</string>
+    <string name="confirm_password_placeholder">கடவுச்சொல்லை மீண்டும் உள்ளிடவும்</string>
+    <string name="error_weak_password">கடவுச்சொல் மிகவும் பலவீனமாக உள்ளது</string>
+
+    <!-- Profile Dialogs -->
+    <string name="select_location">இருப்பிடத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="location_picker_msg">உங்கள் தற்போதைய இருப்பிடத்தை வணிக முகவரியாகப் பயன்படுத்தலாமா?</string>
+    <string name="current_location">தற்போதைய இருப்பிடம்</string>
+    <string name="location_permission_denied">இருப்பிட அனுமதி மறுக்கப்பட்டது</string>
+    <string name="permission_error">அனுமதி பிழை</string>
+    <string name="edit_name">பெயரைத் திருத்து</string>
+    <string name="edit_photo">புகைப்படத்தைத் திருத்து</string>
+    <string name="not_set">அமைக்கப்படவில்லை</string>
+</resources>

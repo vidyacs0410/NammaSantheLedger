@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main App Theme -->
+    <style name="Theme.NammaSantheLedger" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#E65100</item>
+        <item name="android:navigationBarColor">#FFF8F0</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style name="Theme.NammaSantheLedger.Splash" parent="Theme.SplashScreen">
+        <!-- Background -->
+        <item name="windowSplashScreenBackground">#F26E22</item>
+        <!-- Your Logo -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <!-- Remove purple circle -->
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <!-- After splash -->
+        <item name="postSplashScreenTheme">@style/Theme.NammaSantheLedger</item>
+    </style>
+
+</resources>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Santhe Ledger</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">ನಮ್ಮ ಸಂತೆ Ledger</string>
+    <string name="total_outstanding">Total Outstanding (ಉಧಾರಿ)</string>
+    <string name="customers_label">Customers</string>
+    <string name="search_customers">Search customers…</string>
+    <string name="no_customers_title">No customers yet!</string>
+    <string name="no_customers_subtitle">Add your first customer to get started</string>
+    <string name="add_first_customer">Add First Customer</string>
+    <string name="customer_not_found">Customer not found</string>
+
+    <!-- Quick Entry Screen -->
+    <string name="select_customer">Select Customer / ಗ್ರಾಹಕ ಆರಿಸಿ</string>
+    <string name="new_customer">New Customer</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="what_did_you_sell">What did you sell? / ಏನು ಮಾರಿದಿರಿ?</string>
+    <string name="add_udari">Add Udari / ಉಧಾರಿ ಸೇರಿಸಿ</string>
+    <string name="record_payment">Record Payment / ಹಣ ಸ್ವೀಕರಿಸಿ</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="saved">Saved! / ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="error_empty_amount">Enter amount</string>
+    <string name="error_empty_name">Enter customer name</string>
+    <string name="step_amount_entry">Amount Entry</string>
+
+    <!-- Customer Ledger Screen -->
+    <string name="due_label">Due: ₹%1$s</string>
+    <string name="settled_label">Settled ✓</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="total_udari">Total Udari</string>
+    <string name="total_paid">Total Paid</string>
+    <string name="send_whatsapp_reminder">Send WhatsApp Reminder</string>
+    <string name="delete_customer">Delete Customer</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="delete_confirm_title">Confirm Delete</string>
+    <string name="delete_confirm_message">Are you sure you want to delete this?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="whatsapp_not_found">WhatsApp not found</string>
+
+    <!-- Daily Summary Screen -->
+    <string name="daily_summary">Daily Summary</string>
+    <string name="todays_sales">Today\'s Sales / ಇಂದಿನ ಮಾರಾಟ</string>
+    <string name="collected">Collected / ಸ್ವೀಕರಿಸಿದ</string>
+    <string name="pending">Pending / ಬಾಕಿ</string>
+    <string name="share_summary">Share Summary</string>
+    <string name="share_report_title">ಇಂದಿನ ಸಂತೆ ವರದಿ 📊</string>
+    <string name="share_sales">ಮಾರಾಟ: ₹%1$s</string>
+    <string name="share_collected">ಸ್ವೀಕರಿಸಿದ: ₹%1$s</string>
+    <string name="share_pending">ಬಾಕಿ: ₹%1$s</string>
+
+    <!-- Profile Screen -->
+    <string name="profile">Profile</string>
+    <string name="photo_updated">Photo Updated!</string>
+    <string name="profile_saved">Profile Saved!</string>
+    <string name="name_updated">Name is updated!</string>
+    <string name="your_name">Your Name</string>
+    <string name="business_information">Business Information</string>
+    <string name="business_type">Business Type</string>
+    <string name="business_address">Business Address</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="logout">Logout</string>
+    <string name="retail_shop">Retail Shop</string>
+    <string name="wholesale_distributor">Wholesale/Distributor</string>
+    <string name="personal_use">Personal Use</string>
+    <string name="small_business">Small Business</string>
+    <string name="online_services">Online Services</string>
+    <string name="change_number">Change Number</string>
+    <string name="migration_info">Changing number will migrate all your data to the new number.</string>
+    <string name="sms_info">Make sure, you are able to receive SMS on new number.</string>
+    <string name="otp_send_info">An OTP will be send on %1$s to verify the user.</string>
+    <string name="verify_mobile">Verify Mobile</string>
+    <string name="enter_new_number">Enter New Number</string>
+    <string name="number_updated">Phone number updated successfully!</string>
+    <string name="old_number">Old Number</string>
+    <string name="new_number">New Number</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Settings</string>
+    <string name="app_preferences">App Preferences</string>
+    <string name="language">Language</string>
+    <string name="change">Change</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="notifications">Notifications</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="notifications_desc">Get reminders and updates</string>
+    <string name="notifications_enabled_msg">Push notifications enabled! You will now receive timely payment reminders.</string>
+    <string name="data_security">Data &amp; Security</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="backup_data_desc">Save your ledger to the cloud</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="restore_data_desc">Restore from previous backup</string>
+    <string name="about">About</string>
+    <string name="app_version">App Version</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="help_support_desc">Contact us for issues</string>
+    <string name="made_in_india">Made with ❤️ in India</string>
+
+    <!-- Help & Support -->
+    <string name="how_can_we_help">How can we help you?</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="email_support">Email Support</string>
+    <string name="call_us">Call Us</string>
+    <string name="whatsapp_support">WhatsApp Support</string>
+    <string name="chat_with_us">Chat with us on WhatsApp</string>
+    <string name="faqs">Frequently Asked Questions</string>
+    <string name="faq_backup_q">How to take backup of my data?</string>
+    <string name="faq_backup_a">You can go to Settings &gt; Data &amp; Security and click on \'Backup Data\' to save your records to the cloud.</string>
+    <string name="faq_offline_q">Can I use the app offline?</string>
+    <string name="faq_offline_a">Yes, Namma Santhe Ledger works completely offline. Your data is stored securely on your device.</string>
+    <string name="faq_safe_q">Is my data safe?</string>
+    <string name="faq_safe_a">Absolutely. We use industry-standard encryption and security measures to protect your financial records.</string>
+
+    <!-- Data Security -->
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="backup_restore_desc">Keep your data safe by backing up to the cloud or your local storage.</string>
+    <string name="backup_to_cloud">Backup to Cloud</string>
+    <string name="export_local_backup">Export Local Backup</string>
+    <string name="save_file_phone">Save a file to your phone</string>
+    <string name="restore_from_cloud">Restore from Cloud</string>
+    <string name="download_saved_records">Download your saved records</string>
+    <string name="import_from_file">Import from File</string>
+    <string name="select_backup_file">Select a backup file from storage</string>
+    <string name="account_security">Account Security</string>
+    <string name="change_password">Change Password</string>
+    <string name="update_credentials">Update your login credentials</string>
+
+    <!-- Backup & Restore UI -->
+    <string name="available_backups">Available Backups</string>
+    <string name="no_backups_found">No backups found in cloud</string>
+    <string name="restore_confirm_title">Restore Data?</string>
+    <string name="restore_confirm_msg">Existing data will be replaced by the backup. This cannot be undone.</string>
+    <string name="restoring">Restoring…</string>
+    <string name="restore_success">Data restored successfully!</string>
+    <string name="file_selected">File selected: %1$s</string>
+    <string name="cloud_backup_found">Backup from %1$s found on Google Drive</string>
+    <string name="select_to_restore">Select a backup to restore your records</string>
+    <string name="backing_up">Backing up…</string>
+    <string name="backup_success">Backup completed successfully!</string>
+    <string name="export_success">Data exported to: %1$s</string>
+    <string name="preparing_backup">Preparing your data…</string>
+    <string name="uploading_to_cloud">Uploading to cloud…</string>
+
+
+    <!-- Proverbs -->
+    <string name="proverb_1">ವ್ಯಾಪಾರ ಮಾಡು, ಉಪಕಾರ ಮಾಡು 🙏</string>
+    <string name="proverb_2">ಸಂತೆಗೆ ಮುಂಚೆ ಸಿದ್ಧತೆ ಮಾಡು 📦</string>
+    <string name="proverb_3">ಲೆಕ್ಕ ಇಟ್ಟರೆ ಲಾಭ ಕಟ್ಟಿಟ್ಟ ಬುತ್ತಿ 📒</string>
+    <string name="proverb_4">ಕಾಸು ಕಾಸು ಸೇರಿ ಕೋಟಿ ಆಗುತ್ತದೆ 💰</string>
+    <string name="proverb_5">ನಂಬಿಕೆಯೇ ವ್ಯಾಪಾರದ ಬಂಡವಾಳ 🤝</string>
+
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fields_cannot_be_empty">Fields cannot be empty</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="invalid_indian_phone">Please enter a valid 10-digit Indian phone number</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+
+    <!-- Auth Screens -->
+    <string name="app_tagline">Secure and efficient udari management for your business.</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Login to access your ledger</string>
+    <string name="name_or_phone">Name or Phone Number</string>
+    <string name="login_identifier_placeholder">e.g. John or 9876543210</string>
+    <string name="error_empty_identifier">You cannot leave the name or phone number blank</string>
+    <string name="password">Password</string>
+    <string name="error_empty_password">Password must not be entered blank.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_subtitle">Join us to manage your business easily</string>
+    <string name="full_name">Full Name</string>
+    <string name="name_placeholder">e.g. John Doe</string>
+    <string name="error_empty_fullname">Enter your full name</string>
+    <string name="error_invalid_phone">Enter your 10-digit phone number</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="forgot_password_subtitle">Enter your phone number to reset password</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="back">Back</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="login_error_invalid">username or phonenumber is invalid</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password_placeholder">Repeat your password</string>
+    <string name="error_weak_password">Password is too weak</string>
+
+    <!-- Profile Dialogs -->
+    <string name="select_location">Select Location</string>
+    <string name="location_picker_msg">Use your current location as business address?</string>
+    <string name="current_location">Current Location</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="permission_error">Permission error</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="not_set">Not set</string>
+
+    <!-- Voice Input -->
+    <string name="speak_now">Speak now…</string>
+    <string name="voice_tip_add">Tip: Say \"Add 500 for Rice\"</string>
+    <string name="voice_tip_receive">Tip: Say \"Receive 200\"</string>
+    <string name="speak_name_prompt">Say customer name</string>
+    <string name="speak_phone_prompt">Say phone number</string>
+</resources>

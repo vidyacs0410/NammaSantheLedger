@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">नम्मा संथे लेजर</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">नम्मा संथे लेजर</string>
+    <string name="total_outstanding">कुल उधारी</string>
+    <string name="customers_label">ग्राहक</string>
+    <string name="search_customers">ग्राहक खोजें…</string>
+    <string name="no_customers_title">अभी तक कोई ग्राहक नहीं!</string>
+    <string name="no_customers_subtitle">शुरू करने के लिए अपना पहला ग्राहक जोड़ें</string>
+    <string name="add_first_customer">पहला ग्राहक जोड़ें</string>
+    <string name="customer_not_found">ग्राहक नहीं मिला</string>
+
+    <!-- Quick Entry Screen -->
+    <string name="select_customer">ग्राहक चुनें</string>
+    <string name="new_customer">नया ग्राहक</string>
+    <string name="add_customer">ग्राहक जोड़ें</string>
+    <string name="customer_name">ग्राहक का नाम</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="what_did_you_sell">आपने क्या बेचा?</string>
+    <string name="add_udari">उधारी जोड़ें</string>
+    <string name="record_payment">भुगतान दर्ज करें</string>
+    <string name="enter_amount">राशि दर्ज करें</string>
+    <string name="saved">सहेजा गया!</string>
+    <string name="error_empty_amount">राशि दर्ज करें</string>
+    <string name="error_empty_name">ग्राहक का नाम दर्ज करें</string>
+    <string name="step_amount_entry">राशि दर्ज करें</string>
+
+    <!-- Customer Ledger Screen -->
+    <string name="due_label">बाकी: ₹%1$s</string>
+    <string name="settled_label">पूरा हुआ ✓</string>
+    <string name="net_balance">शुद्ध शेष</string>
+    <string name="total_udari">कुल उधारी</string>
+    <string name="total_paid">कुल भुगतान</string>
+    <string name="send_whatsapp_reminder">WhatsApp रिमाइंडर भेजें</string>
+    <string name="delete_customer">ग्राहक हटाएं</string>
+    <string name="delete_transaction">लेनदेन हटाएं</string>
+    <string name="delete_confirm_title">हटाने की पुष्टि करें</string>
+    <string name="delete_confirm_message">क्या आप वाकई इसे हटाना चाहते हैं?</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="today">आज</string>
+    <string name="yesterday">कल</string>
+    <string name="whatsapp_not_found">WhatsApp नहीं मिला</string>
+
+    <!-- Daily Summary Screen -->
+    <string name="daily_summary">दैनिक सारांश</string>
+    <string name="todays_sales">आज की बिक्री</string>
+    <string name="collected">प्राप्त</string>
+    <string name="pending">बाकी</string>
+    <string name="share_summary">सारांश साझा करें</string>
+    <string name="share_report_title">आज की संथे रिपोर्ट 📊</string>
+    <string name="share_sales">बिक्री: ₹%1$s</string>
+    <string name="share_collected">प्राप्त: ₹%1$s</string>
+    <string name="share_pending">बाकी: ₹%1$s</string>
+
+    <!-- Profile Screen -->
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="photo_updated">फ़ोटो अपडेट हो गई!</string>
+    <string name="profile_saved">प्रोफ़ाइल सहेजी गई!</string>
+    <string name="name_updated">नाम अपडेट कर दिया गया है!</string>
+    <string name="your_name">आपका नाम</string>
+    <string name="business_information">व्यापार की जानकारी</string>
+    <string name="business_type">व्यापार का प्रकार</string>
+    <string name="business_address">व्यापार का पता</string>
+    <string name="update_profile">प्रोफ़ाइल अपडेट करें</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="retail_shop">रिटेल दुकान</string>
+    <string name="wholesale_distributor">होलसेल / वितरक</string>
+    <string name="personal_use">व्यक्तिगत उपयोग</string>
+    <string name="small_business">छोटा व्यापार</string>
+    <string name="online_services">ऑनलाइन सेवाएँ</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">सेटिंग्स</string>
+    <string name="app_preferences">ऐप प्राथमिकताएं</string>
+    <string name="language">भाषा</string>
+    <string name="change">बदलें</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="enabled">चालू</string>
+    <string name="disabled">बंद</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="push_notifications">पुश सूचनाएं</string>
+    <string name="notifications_desc">रिमाइंडर और अपडेट प्राप्त करें</string>
+    <string name="notifications_enabled_msg">पुश नोटिफिकेशन चालू! अब आपको समय पर भुगतान रिमाइंडर मिलेंगे।</string>
+    <string name="data_security">डेटा और सुरक्षा</string>
+    <string name="backup_data">डेटा बैकअप</string>
+    <string name="backup_data_desc">क्लाउड में सहेजें</string>
+    <string name="restore_data">डेटा पुनर्स्थापित करें</string>
+    <string name="restore_data_desc">पिछले बैकअप से पुनर्स्थापित करें</string>
+    <string name="about">बारे में</string>
+    <string name="app_version">ऐप संस्करण</string>
+    <string name="help_support">सहायता और समर्थन</string>
+    <string name="help_support_desc">समस्याओं के लिए हमसे संपर्क करें</string>
+    <string name="made_in_india">Made with ❤️ in India</string>
+
+    <!-- Help & Support -->
+    <string name="how_can_we_help">हम आपकी कैसे मदद कर सकते हैं?</string>
+    <string name="contact_us">हमसे संपर्क करें</string>
+    <string name="email_support">ईमेल समर्थन</string>
+    <string name="call_us">कॉल करें</string>
+    <string name="whatsapp_support">WhatsApp समर्थन</string>
+    <string name="chat_with_us">WhatsApp पर चैट करें</string>
+    <string name="faqs">अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="faq_backup_q">अपने डेटा का बैकअप कैसे लें?</string>
+    <string name="faq_backup_a">सेटिंग्स &gt; डेटा और सुरक्षा पर जाएं और \'डेटा बैकअप\' पर क्लिक करें।</string>
+    <string name="faq_offline_q">क्या मैं ऐप का ऑफ़लाइन उपयोग कर सकता हूँ?</string>
+    <string name="faq_offline_a">हां, नम्मा संथे लेजर पूरी तरह से ऑफ़लाइन काम करता है।</string>
+    <string name="faq_safe_q">क्या मेरा डेटा सुरक्षित है?</string>
+    <string name="faq_safe_a">बिल्कुल। हम आपके रिकॉर्ड की सुरक्षा के लिए एन्क्रिप्शन का उपयोग करते हैं।</string>
+
+    <!-- Data Security -->
+    <string name="backup_restore">बैकअप और पुनर्स्थापना</string>
+    <string name="backup_restore_desc">अपने डेटा को सुरक्षित रखें।</string>
+    <string name="backup_to_cloud">क्लाउड पर बैकअप लें</string>
+    <string name="export_local_backup">स्थानीय बैकअप निर्यात करें</string>
+    <string name="save_file_phone">अपने फ़ोन में फ़ाइल सहेजें</string>
+    <string name="restore_from_cloud">क्लाउड से पुनर्स्थापित करें</string>
+    <string name="download_saved_records">अपने सहेजे गए रिकॉर्ड डाउनलोड करें</string>
+    <string name="import_from_file">फ़ाइल से आयात करें</string>
+    <string name="select_backup_file">बैकअप फ़ाइल चुनें</string>
+    <string name="account_security">खाता सुरक्षा</string>
+    <string name="change_password">पासवर्ड बदलें</string>
+    <string name="update_credentials">अपने लॉगिन क्रेडेंशियल अपडेट करें</string>
+
+    <!-- Proverbs -->
+    <string name="proverb_1">व्यापार करें, उपकार करें 🙏</string>
+    <string name="proverb_2">बाजार से पहले तैयार रहें 📦</string>
+    <string name="proverb_3">हिसाब लिखेंगे तो पक्का लाभ 📒</string>
+    <string name="proverb_4">पैसे पैसे से ही करोड़ों बनते हैं 💰</string>
+    <string name="proverb_5">भरोसा ही व्यापार की पूंजी है 🤝</string>
+    
+    <!-- General -->
+    <string name="error_generic">कुछ गलत हो गया</string>
+    <string name="rupee_symbol">₹</string>
+
+    <!-- Auth Screens -->
+    <string name="app_tagline">आपके व्यवसाय के लिए सुरक्षित और कुशल उधारी प्रबंधन।</string>
+    <string name="get_started">शुरू करें</string>
+    <string name="welcome_back">स्वागत है</string>
+    <string name="login_subtitle">अपने लेजर तक पहुँचने के लिए लॉगिन करें</string>
+    <string name="name_or_phone">नाम या फ़ोन नंबर</string>
+    <string name="login_identifier_placeholder">जैसे: जॉन या 9876543210</string>
+    <string name="error_empty_identifier">नाम या फ़ोन नंबर खाली नहीं छोड़ सकते</string>
+    <string name="password">पासवर्ड</string>
+    <string name="error_empty_password">पासवर्ड खाली नहीं होना चाहिए।</string>
+    <string name="forgot_password">पासवर्ड भूल गए?</string>
+    <string name="no_account">अकाउंट नहीं है?</string>
+    <string name="create_account">अकाउंट बनाएं</string>
+    <string name="signup_subtitle">अपने व्यवसाय को आसानी से प्रबंधित करने के लिए हमसे जुड़ें</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="name_placeholder">जैसे: जॉन डो</string>
+    <string name="error_empty_fullname">अपना पूरा नाम दर्ज करें</string>
+    <string name="error_invalid_phone">अपना 10 अंकों का फ़ोन नंबर दर्ज करें</string>
+    <string name="already_have_account">पहले से ही अकाउंट है?</string>
+    <string name="reset_password">पासवर्ड रीसेट करें</string>
+    <string name="forgot_password_subtitle">पासवर्ड रीसेट करने के लिए अपना फ़ोन नंबर दर्ज करें</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="verify_otp">OTP सत्यापित करें</string>
+    <string name="enter_otp">OTP दर्ज करें</string>
+    <string name="back">पीछे</string>
+    <string name="app_logo_description">ऐप लोगो</string>
+    <string name="show_password">पासवर्ड दिखाएं</string>
+    <string name="hide_password">पासवर्ड छुपाएं</string>
+    <string name="login_error_invalid">उपयोगकर्ता नाम या फ़ोन नंबर अमान्य है</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="confirm_password_placeholder">अपना पासवर्ड दोबारा दर्ज करें</string>
+    <string name="error_weak_password">पासवर्ड बहुत कमजोर है</string>
+
+    <!-- Profile Dialogs -->
+    <string name="select_location">स्थान चुनें</string>
+    <string name="location_picker_msg">व्यवसाय के पते के रूप में अपने वर्तमान स्थान का उपयोग करें?</string>
+    <string name="current_location">वर्तमान स्थान</string>
+    <string name="location_permission_denied">स्थान अनुमति अस्वीकार कर दी गई</string>
+    <string name="permission_error">अनुमति त्रुटि</string>
+    <string name="edit_name">नाम बदलें</string>
+    <string name="edit_photo">फोटो बदलें</string>
+    <string name="not_set">सेट नहीं है</string>
+</resources>
