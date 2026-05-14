@@ -58,7 +58,7 @@ Fully localized experience in **Kannada**, **Telugu**, **Tamil**, **Hindi**, and
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/namma-santhe-ledger.git
+   git clone https://github.com/vidyacs0410/namma-santhe-ledger.git
    ```
 2. Open the project in Android Studio.
 3. Sync Project with Gradle Files.
